@@ -4,7 +4,7 @@ Walk-forward study of five price-based factors on the S&P 500, 2006–2023.
 The signal ranks the cross-section (top decile beats bottom by 1.40%/month),
 but the spread is market beta — beta-neutralized, the strategy loses 1.5%/yr.
 
-**[Full paper (PDF)](YOUR_OVERLEAF_LINK)**
+**[Full paper (PDF)](paper.pdf)**
 
 `notebooks/01_factor_model.ipynb` — complete analysis, runs end to end
 `requirements.txt` — dependencies

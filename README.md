@@ -21,7 +21,7 @@ Figures: [decile returns](figures/deciles.pdf) · [equity curves](figures/equity
 The universe is current S&P 500 membership, so the sample is survivor-biased. The paper measures this at roughly 9 percentage points per year (§2.2).
 
 ## Stack
-Python · pandas · NumPy · scikit-learn · XGBoost · statsmodels · SciPy · SHAP · yfinance
+Python · pandas · NumPy · scikit-learn · XGBoost · statsmodels · SciPy · yfinance
 
 ```bash
 pip install -r requirements.txt

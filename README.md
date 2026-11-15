@@ -2,7 +2,7 @@
 
 Walk-forward study of five price-based factors on the S&P 500 (2006–2023, 2.0M stock-day observations).
 
-**[Full paper (PDF)](factor_paper.pdf)** · **[Notebook](notebooks/01_factor_model.ipynb)** (runs end to end)
+**[Full paper (PDF)](paper/factor_paper.pdf)** · **[Notebook](notebooks/01_factor_model.ipynb)** (runs end to end)
 
 ## Key results
 - **Only realized volatility predicts returns.** IC 0.043 (t ≈ 2.84). All three momentum variants are indistinguishable from zero.
